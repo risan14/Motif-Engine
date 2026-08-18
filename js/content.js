@@ -79,13 +79,13 @@ const SITE_CONTENT = {
       link: "#"
     },
     {
-      id: "newsletter",
-      title: "Newsletter Design",
+      id: "report",
+      title: "Report Design",
       category: "Editorial",
       categories: ["All", "Editorial", "Print"],
       year: "2026",
       client: "Non-profit organization",
-      image: "images/Humanitarian.webp",
+      image: "images/Report.webp",
       description: "A refreshed publication system combining storytelling, illustration and editorial hierarchy into a clear, approachable newsletter.",
       details: ["Cover design", "Editorial layout", "Visual direction"],
       link: "#"
