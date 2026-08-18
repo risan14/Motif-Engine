@@ -10,8 +10,8 @@
 
 const SITE_CONTENT = {
   brand: {
-    name: "Your Name",
-    role: "Visual Designer & WordPress Designer"
+    name: "Ezaz Risan",
+    role: "Visual & WordPress Designer"
   },
 
   hero: {
