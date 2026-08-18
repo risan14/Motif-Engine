@@ -85,7 +85,7 @@ const SITE_CONTENT = {
       categories: ["All", "Editorial", "Print"],
       year: "2026",
       client: "Non-profit organization",
-      image: "images/project-02.jpg",
+      image: "images/Humanitarian Campaign.webp",
       description: "A refreshed publication system combining storytelling, illustration and editorial hierarchy into a clear, approachable newsletter.",
       details: ["Cover design", "Editorial layout", "Visual direction"],
       link: "#"
