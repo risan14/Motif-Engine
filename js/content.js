@@ -97,7 +97,7 @@ const SITE_CONTENT = {
       categories: ["All", "Campaign", "Digital"],
       year: "2026",
       client: "Humanitarian organization",
-      image: "images/Humanitarian Campaign.webp",
+      image: "images/poster.webp",
       description: "A digital campaign concept using illustration and strong visual storytelling to communicate humanitarian values.",
       details: ["Campaign concept", "Social media", "Illustration direction"],
       link: "#"
