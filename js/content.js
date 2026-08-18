@@ -85,7 +85,7 @@ const SITE_CONTENT = {
       categories: ["All", "Editorial", "Print", "Campaign"],
       year: "2024",
       client: "Nagorik Uddyog",
-      image: "images/report.webp",
+      image: "images/Report.webp",
       description: "An editorial publication and annual report detailing human rights, child advocacy, and community outreach coverage.",
       details: ["Art Direction", "Editorial Design", "Data Visualization", "Print Production"],
       link: "#"
