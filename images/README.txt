@@ -1,0 +1,1 @@
+Place your portfolio images in this folder. Recommended: hero.jpg, project-01.jpg, project-02.jpg, project-03.jpg, project-04.jpg.
