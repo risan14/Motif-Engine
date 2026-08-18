@@ -18,7 +18,7 @@ const SITE_CONTENT = {
     eyebrow: "Independent designer · Available for selected projects",
     title: "I create <em>visual experiences</em> that people remember.",
     description: "Graphic design, brand communication and thoughtful WordPress websites for organizations, businesses and people with something worth saying.",
-    image: "images/hero.jpg",
+    image: "images/hero.jFIF",
     note: "Currently accepting new projects"
   },
 
