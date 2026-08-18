@@ -79,15 +79,15 @@ const SITE_CONTENT = {
       link: "#"
     },
     {
-      id: "report",
-      title: "Report Design",
+      id: "annual-report",
+      title: "Nagorik Uddyog Annual Report",
       category: "Editorial",
-      categories: ["All", "Editorial", "Print"],
-      year: "2026",
-      client: "Non-profit organization",
-      image: "images/Report.webp",
-      description: "A refreshed publication system combining storytelling, illustration and editorial hierarchy into a clear, approachable newsletter.",
-      details: ["Cover design", "Editorial layout", "Visual direction"],
+      categories: ["All", "Editorial", "Print", "Campaign"],
+      year: "2024",
+      client: "Nagorik Uddyog",
+      image: "images/report.webp",
+      description: "An editorial publication and annual report detailing human rights, child advocacy, and community outreach coverage.",
+      details: ["Art Direction", "Editorial Design", "Data Visualization", "Print Production"],
       link: "#"
     },
     {
