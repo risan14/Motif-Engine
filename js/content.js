@@ -73,7 +73,7 @@ const SITE_CONTENT = {
       categories: ["All", "Editorial", "Print"],
       year: "2026",
       client: "Non-profit organization",
-      image: "images/project-01.jpg",
+      image: "images/planner.webp",
       description: "A nature-inspired annual planner created to make organizational communication feel warm, human and connected to everyday village life.",
       details: ["Art direction", "Editorial design", "Print production"],
       link: "#"
