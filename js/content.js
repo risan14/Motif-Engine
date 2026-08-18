@@ -119,8 +119,8 @@ const SITE_CONTENT = {
   contact: {
     title: "Let's make something <em>worth seeing.</em>",
     description: "Have a design problem, a new website or a project that needs a stronger visual direction? Tell me about it.",
-    email: "hello@yourdomain.com",
-    location: "Available worldwide · Bangladesh",
+    email: "ezazrisan@gmail.com",
+    location: "Available worldwide · USA",
     availability: "Open for selected freelance projects"
   },
 
